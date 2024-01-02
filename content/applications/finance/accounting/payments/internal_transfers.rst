@@ -10,8 +10,8 @@ Configuration
 
 An internal transfer account is automatically created on your database based on your company's
 localization and depending on your country’s legislation. If needed, the default :guilabel:`Internal
-transfer account` can be modified by going to :menuselection:`Accounting app --> Configuration -->
-Settings` and then under the :guilabel:`Default Accounts` section.
+transfer account` can be modified by going to :menuselection:`Accounting --> Configuration -->
+Settings --> Default Accounts section`.
 
 .. note::
    At least two bank accounts are needed to make internal transfers. Refer to
