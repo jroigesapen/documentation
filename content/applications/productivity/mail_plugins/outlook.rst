@@ -28,34 +28,14 @@ Download (:menuselection:`Save Page As --> Web Page XML only`) the following XML
 later: `https://download.odoocdn.com/plugins/outlook/manifest.xml
 <https://download.odoocdn.com/plugins/outlook/manifest.xml>`_.
 
-Next, open the Outlook mailbox, and select any email. After completing this, click on the
-:guilabel:`More actions` button in the upper right-side and select :guilabel:`Get Add-ins`.
+In your preferred browser, go to https://aka.ms/olksideload to open the Add-Ins for Outlook dialog.
 
-.. image:: outlook/more-actions.png
-   :align: center
-   :alt: More actions button in Outlook
+Select My add-ins.
 
-Following this step, select the :guilabel:`My add-ins` tab on the left-side.
-
-.. image:: outlook/my-add-ins.png
-   :align: center
-   :alt: My add-ins in Outlook
-
-Under :guilabel:`Custom add-ins` towards the bottom, click on :guilabel:`+ Add a custom add-in`, and
-then on :guilabel:`Add from file...`
-
-.. image:: outlook/custom-add-ins.png
-   :align: center
-   :alt: Custom add-ins in Outlook
-
-For the next step, attach the `manifest.xml` file downloaded above, and press :guilabel:`OK`. Next,
-read the warning and click on :guilabel:`Install`.
-
-.. image:: outlook/add-in-warning.png
+In the Custom Addins section, select Add a custom add-in, then choose Add from file.
+.. image:: https://support.content.office.net/en-us/media/a11f66ac-3e9a-48dc-8a65-ccb1f901da11.png
    :align: center
    :alt: Custom add-in installation warning in Outlook
-
-.. _mail-plugin/outlook/connect-database:
 
 Connect the database
 --------------------
